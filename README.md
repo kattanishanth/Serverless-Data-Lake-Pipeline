@@ -22,7 +22,7 @@ This project demonstrates how to build a **serverless data lake architecture** u
 
 ### 🖼️ Architecture Diagram
 
-![Architecture Diagram](screenshots/architecture-diagram.png)
+[![Architecture Diagram](screenshots/architecture-diagram.png)](https://github.com/kattanishanth/Serverless-Data-Lake-Pipeline/blob/main/architecture.png)
 
 ---
 
