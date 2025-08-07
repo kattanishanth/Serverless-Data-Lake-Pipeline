@@ -1,4 +1,4 @@
-# Serverless Data Lake Pipeline with AWS Glue, Lambda, and S3
+# Serverless Data Lake Pipeline with AWS Glue, S3, and Lambda
 
 ## 📌 Project Overview
 
