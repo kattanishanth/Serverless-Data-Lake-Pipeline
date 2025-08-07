@@ -17,7 +17,7 @@ This project demonstrates how to build a **serverless data lake** using AWS serv
 
 ### 📊 Architecture Diagram
 
-![Architecture Diagram](A_flowchart_diagram_on_a_grid_background_illustrat.png)
+[![Architecture Diagram](A_flowchart_diagram_on_a_grid_background_illustrat.png)](https://github.com/kattanishanth/Serverless-Data-Lake-Pipeline/blob/main/architecture.png)
 
 ---
 
